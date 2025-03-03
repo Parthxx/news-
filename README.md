@@ -69,7 +69,9 @@ Contact
 For inquiries, feedback, or collaboration, reach out via:
 
 Email: parthrana12489@gmail.com
+
 Instagram: pa._rthf
+
 LinkdIn: www.linkedin.com/in/parth7800
 
 #NewsMedia #BreakingNews #TrendingNews #NewsUpdates #WebDevelopment #FrontendDev #GitHubRepo #OpenSource #SEOOptimised #FastLoading #ResponsiveDesign #StructuredData #GitHubProject
