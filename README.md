@@ -3,39 +3,41 @@ Table of Contents
 Overview
 Features
 Technologies Used
-Installation & Setup
-Folder Structure
-SEO & Performance Optimization
-Contribution Guidelines
+Installation
+Project Structure
+SEO Optimisation
+Contribution
 License
 Contact
 Overview
-Fan Media is a fast, responsive, and SEO-optimized football news website built for football fans, ultras, and sports enthusiasts. The platform delivers the latest football news, match reports, and exclusive insights in an engaging and user-friendly format.
+Fan Media is a responsive and SEO-optimised football news platform designed for fans, ultras, and sports enthusiasts. It delivers the latest news, match reports, and insights in an intuitive and fast-loading format.
 
 Features
-* Fully Responsive Design – Optimized for all screen sizes
-* SEO-Optimized Structure – Uses meta tags, semantic HTML, and Open Graph protocol
-* Fast Loading & Performance Optimized – Lightweight and efficient code
-* News Section – Structured content for better readability
-* Dark Theme UI – Designed for an immersive user experience
-
+Fully responsive design for all screen sizes
+SEO-optimised with meta tags, structured data, and Open Graph integration
+Fast loading with efficient HTML, CSS, and JavaScript
+Organised news layout for better readability
+Dark mode for an improved user experience
 Technologies Used
-Frontend: HTML5, CSS3 (Grid & Flexbox), JavaScript
-Hosting Compatibility: GitHub Pages, Netlify, Vercel
-Installation & Setup
-1. Clone the Repository
+HTML5, CSS3 (Grid & Flexbox), JavaScript
+Compatible with GitHub Pages, Netlify, and Vercel
+Installation
+Clone the Repository
 bash
 Copy
 Edit
 git clone https://github.com/your-username/fan-media.git
 cd fan-media
-2. Open in Browser
-Open index.html directly in your browser or use a local server.
+Open in Browser
+Open index.html in your browser.
 
-3. Run with Live Server (Optional)
-If using VS Code, you can launch with Live Server for better development experience.
-
-Folder Structure
+Run with Live Server (Optional)
+bash
+Copy
+Edit
+npm install -g live-server
+live-server
+Project Structure
 graphql
 Copy
 Edit
@@ -45,40 +47,39 @@ Edit
  ├── fnews.css          # Stylesheet  
  ├── script.js          # JavaScript file (if needed)  
  ├── README.md          # Project documentation  
-
-Contribution Guidelines
-Fork the repository on GitHub
-Create a new branch
+SEO Optimisation
+Optimised meta tags for better search engine ranking
+Open Graph and Twitter Card support for improved social sharing
+Lazy loading for images to enhance page speed
+Semantic HTML and accessibility improvements
+Mobile-first design to ensure a seamless experience
+Contribution
+Fork the repository and create a branch
 bash
 Copy
 Edit
 git checkout -b feature-name
-Make your changes and commit
+Make changes and commit
 bash
 Copy
 Edit
-git commit -m "Description of changes"
+git commit -m "Added feature: XYZ"
 Push to your branch
 bash
 Copy
 Edit
 git push origin feature-name
-Create a Pull Request (PR) for review
+Submit a pull request for review
 License
 This project is open-source and licensed under the MIT License.
 
 Contact
 For inquiries, feedback, or collaboration, reach out via:
 
-Email: your-email@example.com
-Twitter: @your_handle
-If you find this project useful, consider starring this repository on GitHub.
+Email: parthrana12489@gmail.com
+Twitter: Prth7800
+Instagram: pa._rthf
 
-This format is properly structured for GitHub’s markdown rendering, ensuring readability, clean spacing, and professional presentation. Let me know if you need further refinements.
+If you find this project useful, consider starring it on GitHub.
 
-
-
-
-
-
-
+This version is clear, professional, and optimised for readability and search engines while maintaining a structured and concise format.
