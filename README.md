@@ -21,57 +21,26 @@ Dark mode for an improved user experience
 Technologies Used
 HTML5, CSS3 (Grid & Flexbox), JavaScript
 Compatible with GitHub Pages, Netlify, and Vercel
+
 Installation
 Clone the Repository
-bash
-Copy
-Edit
 git clone https://github.com/your-username/fan-media.git
 cd fan-media
 Open in Browser
 Open index.html in your browser.
 
 Run with Live Server (Optional)
-bash
-Copy
-Edit
 npm install -g live-server
 live-server
+
 Project Structure
-graphql
-Copy
-Edit
 /Fan-Media
  ├── /Fan media         # Image assets  
- ├── index.html         # Main HTML file  
+ ├── fnews.html         # Main HTML file  
  ├── fnews.css          # Stylesheet  
- ├── script.js          # JavaScript file (if needed)  
  ├── README.md          # Project documentation  
-SEO Optimisation
-Optimised meta tags for better search engine ranking
-Open Graph and Twitter Card support for improved social sharing
-Lazy loading for images to enhance page speed
-Semantic HTML and accessibility improvements
-Mobile-first design to ensure a seamless experience
-Contribution
-Fork the repository and create a branch
-bash
-Copy
-Edit
-git checkout -b feature-name
-Make changes and commit
-bash
-Copy
-Edit
-git commit -m "Added feature: XYZ"
-Push to your branch
-bash
-Copy
-Edit
-git push origin feature-name
-Submit a pull request for review
-License
-This project is open-source and licensed under the MIT License.
+
+
 
 Contact
 For inquiries, feedback, or collaboration, reach out via:
