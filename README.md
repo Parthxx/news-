@@ -13,11 +13,11 @@ Overview
 Fan Media is a fast, responsive, and SEO-optimized football news website built for football fans, ultras, and sports enthusiasts. The platform delivers the latest football news, match reports, and exclusive insights in an engaging and user-friendly format.
 
 Features
-✔ Fully Responsive Design – Optimized for all screen sizes
-✔ SEO-Optimized Structure – Uses meta tags, semantic HTML, and Open Graph protocol
-✔ Fast Loading & Performance Optimized – Lightweight and efficient code
-✔ News Section – Structured content for better readability
-✔ Dark Theme UI – Designed for an immersive user experience
+* Fully Responsive Design – Optimized for all screen sizes
+* SEO-Optimized Structure – Uses meta tags, semantic HTML, and Open Graph protocol
+* Fast Loading & Performance Optimized – Lightweight and efficient code
+* News Section – Structured content for better readability
+* Dark Theme UI – Designed for an immersive user experience
 
 Technologies Used
 Frontend: HTML5, CSS3 (Grid & Flexbox), JavaScript
