@@ -76,10 +76,5 @@ This project is open-source and licensed under the MIT License.
 Contact
 For inquiries, feedback, or collaboration, reach out via:
 
-Email: parthrana12489@gmail.com
-Twitter: Prth7800
+Email: parthrana12489.com
 Instagram: pa._rthf
-
-If you find this project useful, consider starring it on GitHub.
-
-This version is clear, professional, and optimised for readability and search engines while maintaining a structured and concise format.
